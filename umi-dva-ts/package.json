@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "author": "Yukun Luo <407994173@qq.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@types/mockjs": "^1.0.7",
+    "axios": "^1.4.0",
+    "mockjs": "^1.1.0",
+    "umi": "^4.0.68"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "@umijs/plugins": "^4.0.68",
+    "typescript": "^5.0.3"
+  }
+}
