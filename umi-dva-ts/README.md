@@ -1,3 +1,5 @@
+2023/5/11完成dva+router
+
 创建方式 yarn create umi simple
 
 创建完成后,安装的依赖
@@ -6,3 +8,8 @@
 "mockjs": "^1.1.0",
 "@umijs/plugins": "^4.0.68",
 "react-redux": "^8.0.5",
+
+
+
+
+
