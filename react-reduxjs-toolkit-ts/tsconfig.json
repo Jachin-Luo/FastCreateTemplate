@@ -1,5 +1,11 @@
 {
   "compilerOptions": {
+    //craco-----
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    //craco-----
     "target": "es5",
     "lib": [
       "dom",
